@@ -1,0 +1,12 @@
+langchain
+langgraph
+cassio # For initializing Astra DB database
+langchain_community # For initializing
+tiktoken 
+langchain-groq 
+langchainhub
+langchain 
+langgraph 
+langchain_huggingface
+bs4
+wikipedia
